@@ -4,7 +4,7 @@
       "id": 1,
       "username": "zeyzey",
       "email": "zeynabba45@gmail.com",
-      "avatar": "https://img.freepik.com/photos-gratuite/vue-dessus-fond-noir-jolies-fleurs-papier_23-2148274641.jpg?ga=GA1.1.187790430.1741859635&semt=ais_hybrid&w=740",
+      "avatar": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=150",
       "name": "Zeynab Ba",
       "status": "Hey there! I am using WhatsApp.",
       "lastSeen": "2024-01-15T10:30:00Z",
@@ -14,7 +14,7 @@
       "id": 2,
       "username": "baddiees",
       "email": "bintoualyba@gmail.com",
-      "avatar": "https://img.freepik.com/photos-gratuite/vue-cote-elegant-jeune-femme-jumelles_1149-561.jpg?ga=GA1.1.187790430.1741859635&semt=ais_hybrid&w=740",
+      "avatar": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=150",
       "name": "Bintou Aly",
       "status": "suis foutue 💼",
       "lastSeen": "2024-01-15T09:15:00Z",
@@ -24,7 +24,7 @@
       "id": 3,
       "username": "savon",
       "email": "savonmamendiaye@gmail.com",
-      "avatar": "https://img.freepik.com/photos-gratuite/portrait-femme-posant-casque_23-2150368070.jpg?ga=GA1.1.187790430.1741859635&semt=ais_hybrid&w=740",
+      "avatar": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=150",
       "name": "Mame Ndiaye Savon",
       "status": "Available",
       "lastSeen": "2024-01-15T11:00:00Z",
@@ -35,14 +35,14 @@
     {
       "id": 1,
       "participants": [1, 2],
-      "lastMessage": "Hey! How are you doing?",
+      "lastMessage": "c'est comment?",
       "lastMessageTime": "2024-01-15T10:30:00Z",
       "unreadCount": 2
     },
     {
       "id": 2,
       "participants": [1, 3],
-      "lastMessage": "Let's meet tomorrow!",
+      "lastMessage": "a nous revoir!",
       "lastMessageTime": "2024-01-15T09:45:00Z",
       "unreadCount": 0
     }
@@ -52,7 +52,7 @@
       "id": 1,
       "chatId": 1,
       "senderId": 2,
-      "content": "Hey! How are you doing?",
+      "content": "salut savon c'est comment?",
       "timestamp": "2024-01-15T10:30:00Z",
       "type": "text",
       "status": "delivered"
@@ -61,7 +61,7 @@
       "id": 2,
       "chatId": 1,
       "senderId": 1,
-      "content": "I'm good! Thanks for asking 😊",
+      "content": "magui bakh deh, nakala 😊",
       "timestamp": "2024-01-15T10:32:00Z",
       "type": "text",
       "status": "read"
@@ -70,7 +70,7 @@
       "id": 3,
       "chatId": 2,
       "senderId": 3,
-      "content": "Let's meet tomorrow!",
+      "content": "yeah!",
       "timestamp": "2024-01-15T09:45:00Z",
       "type": "text",
       "status": "delivered"
@@ -80,7 +80,7 @@
     {
       "id": 1,
       "userId": 2,
-      "content": "https://images.pexels.com/photos/1386604/pexels-photo-1386604.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "content": "https://img.freepik.com/vecteurs-libre/heureuse-femme-musulmane-portant-hijab_1308-135083.jpg?ga=GA1.1.187790430.1741859635&semt=ais_hybrid&w=740",
       "type": "image",
       "timestamp": "2024-01-15T08:00:00Z",
       "views": [1, 3]
@@ -88,7 +88,7 @@
     {
       "id": 2,
       "userId": 3,
-      "content": "Beautiful sunset today! 🌅",
+      "content": "https://img.freepik.com/vecteurs-libre/personnage-jolie-fille-musulmane_1308-47864.jpg?ga=GA1.1.187790430.1741859635&semt=ais_hybrid&w=740",
       "type": "text",
       "backgroundColor": "#FF6B6B",
       "timestamp": "2024-01-15T07:30:00Z",
