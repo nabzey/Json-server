@@ -4,7 +4,7 @@
       "id": 1,
       "username": "zeyzey",
       "email": "zeynabba45@gmail.com",
-      "avatar": "zeynab.jpg",   
+      "avatar": "/src/assets/zeynab.jpg/src/assets/zeynab.jpg",   
       "name": "Zeynab Ba",
       "status": "Hey there! I am using WhatsApp.",
       "lastSeen": "2024-01-15T10:30:00Z",
@@ -14,7 +14,7 @@
       "id": 2,
       "username": "baddiees",
       "email": "bintoualyba@gmail.com",
-      "avatar": "zeynab.jpg",  
+      "avatar": "/src/assets/zeynab.jpg",  
        "name": "Bintou Aly",
       "status": "suis foutue 💼",
       "lastSeen": "2024-01-15T09:15:00Z",
@@ -24,7 +24,7 @@
       "id": 3,
       "username": "savon",
       "email": "savonmamendiaye@gmail.com",
-      "avatar": "zeynab.jpg",  
+      "avatar": "/src/assets/zeynab.jpg",  
        "name": "Mame Ndiaye Savon",
       "status": "Available",
       "lastSeen": "2024-01-15T11:00:00Z",
@@ -37,7 +37,7 @@
       "participants": [1, 2],
       "lastMessage": "c'est comment?",
       "lastMessageTime": "2024-01-15T10:30:00Z",
-      "unreadCount": 2
+      "unreadCount": 0
     },
     {
       "id": 2,
