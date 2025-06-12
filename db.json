@@ -89,8 +89,7 @@
       "id": 2,
       "userId": 3,
       "content": "https://img.freepik.com/vecteurs-libre/personnage-jolie-fille-musulmane_1308-47864.jpg?ga=GA1.1.187790430.1741859635&semt=ais_hybrid&w=740",
-      "type": "text",
-      "backgroundColor": "#FF6B6B",
+      "type": "image",
       "timestamp": "2024-01-15T07:30:00Z",
       "views": [1]
     }
