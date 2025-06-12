@@ -9,11 +9,11 @@
           "type": "phone",
           "value": "+221 77 123 45 67"
         },
-         {
+        {
           "type": "phone",
           "value": "+221 77 123 45 68"
         },
-         {
+        {
           "type": "phone",
           "value": "+221 77 123 45 69"
         }
@@ -29,7 +29,7 @@
       "username": "baddiees",
       "email": "bintoualyba@gmail.com",
       "avatar": "https://img.freepik.com/photos-gratuite/bleu-villa-magnifique-hotel-mer_1203-5316.jpg?ga=GA1.1.187790430.1741859635&semt=ais_hybrid&w=740",  
-       "name": "Bintou Aly",
+      "name": "Bintou Aly",
       "status": "suis foutue 💼",
       "lastSeen": "2024-01-15T09:15:00Z",
       "isOnline": false
@@ -39,7 +39,7 @@
       "username": "savon",
       "email": "savonmamendiaye@gmail.com",
       "avatar": "https://img.freepik.com/photos-gratuite/bleu-villa-magnifique-hotel-mer_1203-5316.jpg?ga=GA1.1.187790430.1741859635&semt=ais_hybrid&w=740",  
-       "name": "Mame Ndiaye Savon",
+      "name": "Mame Ndiaye Savon",
       "status": "Available",
       "lastSeen": "2024-01-15T11:00:00Z",
       "isOnline": true
