@@ -8,7 +8,7 @@
       "avatar": "https://img.freepik.com/photos-gratuite/bleu-villa-magnifique-hotel-mer_1203-5316.jpg?ga=GA1.1.187790430.1741859635&semt=ais_hybrid&w=740",   
       "name": "Zeynab Ba",
       "status": "Hey there! I am using WhatsApp.",
-      "lastSeen": "2024-01-15T10:30:00Z",
+      "lastSeen": "2025-06-15T10:30:00Z",
       "isOnline": true
     },
     {
@@ -19,7 +19,7 @@
       "avatar": "https://img.freepik.com/photos-gratuite/bleu-villa-magnifique-hotel-mer_1203-5316.jpg?ga=GA1.1.187790430.1741859635&semt=ais_hybrid&w=740",  
        "name": "Bintou Aly",
       "status": "suis foutue 💼",
-      "lastSeen": "2024-01-15T09:15:00Z",
+      "lastSeen": "2025-06-15T09:15:00Z",
       "isOnline": false
     },
     {
@@ -30,7 +30,7 @@
       "avatar": "https://img.freepik.com/photos-gratuite/bleu-villa-magnifique-hotel-mer_1203-5316.jpg?ga=GA1.1.187790430.1741859635&semt=ais_hybrid&w=740",  
        "name": "Mame Ndiaye Savon",
       "status": "Available",
-      "lastSeen": "2024-01-15T11:00:00Z",
+      "lastSeen": "2025-06-15T11:00:00Z",
       "isOnline": true
     }
   ],
@@ -39,14 +39,14 @@
       "id": 1,
       "participants": [1, 2],
       "lastMessage": "c'est comment?",
-      "lastMessageTime": "2024-01-15T10:30:00Z",
+      "lastMessageTime": "2025-06-15T10:30:00Z",
       "unreadCount": 0
     },
     {
       "id": 2,
       "participants": [1, 3],
       "lastMessage": "a nous revoir!",
-      "lastMessageTime": "2024-01-15T09:45:00Z",
+      "lastMessageTime": "2025-06-15T09:45:00Z",
       "unreadCount": 0
     }
   ],
@@ -56,7 +56,7 @@
       "chatId": 1,
       "senderId": 2,
       "content": "salut savon c'est comment?",
-      "timestamp": "2024-01-15T10:30:00Z",
+      "timestamp": "2025-06-15T10:30:00Z",
       "type": "text",
       "status": "delivered"
     },
@@ -65,7 +65,7 @@
       "chatId": 1,
       "senderId": 1,
       "content": "magui bakh deh, nakala 😊",
-      "timestamp": "2024-01-15T10:32:00Z",
+      "timestamp": "2025-06-15T10:32:00Z",
       "type": "text",
       "status": "read"
     },
@@ -74,7 +74,7 @@
       "chatId": 2,
       "senderId": 3,
       "content": "yeah!",
-      "timestamp": "2024-01-15T09:45:00Z",
+      "timestamp": "2025-06-15T09:45:00Z",
       "type": "text",
       "status": "delivered"
     }
@@ -104,7 +104,7 @@
       "type": "voice",
       "status": "completed",
       "duration": 320,
-      "timestamp": "2024-01-15T09:00:00Z"
+      "timestamp": "2025-06-15T09:00:00Z"
     },
     {
       "id": 2,
@@ -112,7 +112,7 @@
       "type": "video",
       "status": "missed",
       "duration": 0,
-      "timestamp": "2024-01-15T08:30:00Z"
+      "timestamp": "2025-06-15T08:30:00Z"
     }
   ]
 }
